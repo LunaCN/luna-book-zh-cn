@@ -3,6 +3,8 @@
 
 由[华麓社区（LunaCN）][c]翻译整理。
 
+已经是[luna-book项目的zh-cn][d]分支，并一起部署到[GitBook][e]啦！
+
 ## 关于本书
 欢迎阅览[Luna书][0]，尽管目前还远不能算作一本真正的书，名字是根据作者想发展的目标，一个感性的、易沉醉的、当然是完整的Luna介绍。作者深信辅导册子比正规文档更易阅读和理解，因此，本书的风格是两者的融合，经常依赖举例和感性解释。
 
@@ -45,3 +47,5 @@
 [a]:https://share.weiyun.com/67c88f4b8f6c950d773b38d39d9a9f91
 [b]:./images/too-big-while-installing.png "xiucai had renamed to bob.xiucai"
 [c]:http://luna-lang.cn/
+[d]:https://github.com/luna/luna-book/tree/zh-cn
+[e]:https://luna-lang.gitbooks.io/docs/content/v/zh-cn/zh-cn/
